@@ -53,6 +53,10 @@
         {
             "type": "vcs",
             "url": "https://github.com/danyaagay/openai-php-client"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/danyaagay/openai-php-laravel"
         }
     ],
     "scripts": {
